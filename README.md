@@ -74,19 +74,12 @@ The automated bot scans Outlook for delivery confirmation emails, matches them t
 
 ![UiPath Workflow](./OrderToCashProcessRPA/UiPathProgress.jpg)
 
-### 📄 Sample Automated Invoice
+### 📄 Sample Automated Invoice through Email Confirmation
 
 ![Invoice Output](./OrderToCashProcessRPA/UiPathAutomatedMail.pdf)
 
 ---
 
-## 📩 Email Confirmation Output
-
-Preview of automated email delivery with attached invoice.
-
-![UiPath Mail PDF](./OrderToCashProcessRPA/UiPathAutomatedMail.pdf)
-
----
 
 ## 📁 Files Included
 
